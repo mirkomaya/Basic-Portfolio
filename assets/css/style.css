@@ -1,4 +1,26 @@
-#image {
+body {
+    width: 960px;
+    /* background: url(../images/ignasi_pattern_s.png); */
+    background: url(../images/naturalwhite.png);
+
+}
+
+header {
+    background-color: #ffffff;
+    height: 60px;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+}
+
+p {
+    font-family: "Courier New", Courier, monospace;
+}
+
+
+#image {;
     width: 200px;
     height: 200px;
 }
